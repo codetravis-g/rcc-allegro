@@ -33,13 +33,13 @@
     "logo_status": "show",
     "logo_grid_area": "grid_area_2",
     "logo_image": {
-      "logo_image_url": "IntlCoop1266CAC_logo.jpg",
-      "logo_image_position": "grid_area_center",
-      "logo_image_width": "330px",
-      "logo_image_height": "255px",
-      "logo_image_border": "0",
-      "logo_image_border_radius": "3px"
-    },
+		"logo_image_url": "https://raw.githubusercontent.com/codetravis-g/rcc-allegro/master/pictures/rcc_logo_photo.jpg",
+		"logo_image_position": "grid_area_center",
+		"logo_image_width": "330px",
+		"logo_image_height": "auto",
+		"logo_image_border": "0px none rgba(255, 255, 255, 0)",
+		"logo_image_border_radius": "12px"
+	}
     "logo_block": {
       "logo_block_background_color": "rgba(255, 255, 255, 1)",
       "logo_block_border": "",
