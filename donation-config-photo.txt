@@ -33,7 +33,7 @@
     "logo_status": "show",
     "logo_grid_area": "grid_area_2",
     "logo_image": {
-      "logo_image_url": "AOS_IntlCoop1266CAC/IntlCoop1266CAC_10008486.jpg",
+      "logo_image_url": "https://github.com/codetravis-g/rcc-allegro/blob/12f69def3bf74021514757c2ab78043e48e79d0a/pictures/rcc_logo_photo.jpg",
       "logo_image_position": "grid_area_center",
       "logo_image_width": "330px",
       "logo_image_height": "255px",
