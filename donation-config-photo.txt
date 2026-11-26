@@ -33,7 +33,7 @@
     "logo_status": "show",
     "logo_grid_area": "grid_area_2",
     "logo_image": {
-      "logo_image_url": "AOS_15CoachingLstrKWL/AOS_15CoachingLstrKWL_logo.jpg",
+      "logo_image_url": "AOS_IntlCoop1266CAC/IntlCoop1266CAC_10008486.jpg",
       "logo_image_position": "grid_area_center",
       "logo_image_width": "330px",
       "logo_image_height": "255px",
@@ -161,8 +161,8 @@
       "about_image_block_border_radius": "0px"
     },
     "about_text": {
-      "about_text_content": "Ken Lassiter is a certified professional coach who serves the local church and cross-cultural ministries through coaching, teaching, mentoring, and consulting.\n\n\n\n\nRooted in a biblical foundation and shaped by 40+ years of ministry experience, we apply simple, proven principles to help individuals and churches live and lead on mission.",
-      "about_text_content_truncated": "Ken Lassiter is a certified professional coach who serves the local church and cross-cultural ministries through coaching, teaching, mentoring, and consulting.\n\n\n\n\nRooted in a biblical foundation and shaped by 40+ years of ministry experience, we apply simple, proven principles to help individuals and churches live and lead on mission.",
+      "about_text_content": "Pastor Cooper is a long time missionary and pastor working to reach people with the Gospel",
+      "about_text_content_truncated": "Pastor Cooper is a long time missionary and pastor working to reach people with the Gospel",
       "about_text_padding": "0",
       "about_text_font_size": "17px",
       "about_text_font_size_small_screen": "16px",
