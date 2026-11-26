@@ -1,0 +1,396 @@
+{
+  "body": {
+    "body_background": {
+      "body_background_color": "#F1F5F9",
+      "body_background_image_url": "",
+      "body_background_image_repeat": "no-repeat",
+      "body_background_image_size": "cover",
+      "body_background_opacity": "1"
+    },
+    "body_block": {
+      "body_block_position": "center",
+      "body_block_grid_template": "x",
+      "body_block_width": "auto",
+      "body_block_background_color": "#FFFFFF",
+      "body_block_border": "",
+      "body_block_border_radius": "16px",
+      "body_block_margin": "",
+      "body_block_padding": ""
+    }
+  },
+  "fonts": {
+    "fonts_status": "No",
+    "fonts_data": {
+      "font_1_url": "",
+      "font_2_url": "",
+      "font_3_url": "",
+      "font_4_url": "",
+      "font_5_url": "",
+      "font_6_url": ""
+    }
+  },
+  "title": {
+    "title_status": "show",
+    "title_grid_area": "grid_area_1",
+    "title_text": {
+      "title_text_content": "Your Organization",
+      "title_text_font_size": "24px",
+      "title_text_font_size_small_screen": "16px",
+      "title_text_font_weight": "bold",
+      "title_text_color": "#134E4A",
+      "title_text_text_align": "center",
+      "title_text_font_style": "normal",
+      "title_text_font_family": "Arial, Helvetica, sans-serif",
+      "title_text_text_decoration": "none"
+    },
+    "title_block": {
+      "title_block_background_color": "#FFFFFF",
+      "title_block_padding": "16px",
+      "title_block_margin": "",
+      "title_block_border_radius": "0px",
+      "title_block_border_top": "",
+      "title_block_border_right": "",
+      "title_block_border_bottom": "",
+      "title_block_border_left": ""
+    }
+  },
+  "logo": {
+    "logo_status": "show",
+    "logo_grid_area": "grid_area_2",
+    "logo_image": {
+      "logo_image_url": "https://example.org/mission-photo.jpg",
+      "logo_image_position": "grid_area_center",
+      "logo_image_width": "330px",
+      "logo_image_height": "auto",
+      "logo_image_border": "0",
+      "logo_image_border_radius": "12px"
+    },
+    "logo_block": {
+      "logo_block_background_color": "#FFFFFF",
+      "logo_block_border": "",
+      "logo_block_border_radius": "0px",
+      "logo_block_margin": "",
+      "logo_block_padding": "8px"
+    }
+  },
+  "menu": {
+    "menu_status": "none",
+    "menu_grid_area": "grid_area_3",
+    "menu_items_count": "0"
+  },
+  "about": {
+    "about_status": "show",
+    "about_grid_area": "grid_area_4",
+    "about_block": {
+      "about_block_background_color": "#F0FDFA",
+      "about_block_padding": "20px 16px",
+      "about_block_margin": "12px",
+      "about_block_border_radius": "16px",
+      "about_block_border_top": "",
+      "about_block_border_right": "",
+      "about_block_border_bottom": "",
+      "about_block_border_left": ""
+    },
+    "about_image": {
+      "about_image_url": "",
+      "about_image_width": "165px",
+      "about_image_height": "auto",
+      "about_image_margin_left": "0px",
+      "about_image_border": "",
+      "about_image_border_radius": "0px"
+    },
+    "about_image_block": {
+      "about_image_block_background_color": "transparent",
+      "about_image_block_padding": "",
+      "about_image_block_margin": "",
+      "about_image_block_border_radius": "0px",
+      "about_image_block_border_top": "",
+      "about_image_block_border_right": "",
+      "about_image_block_border_bottom": "",
+      "about_image_block_border_left": ""
+    },
+    "about_text": {
+      "about_text_content": "We are passionate about serving others, strengthening communities, and creating opportunities for lasting change. Through your generosity, we can continue this important work and expand our impact. Thank you for being a part of our mission.",
+      "about_text_content_truncated": "We are passionate about serving others, strengthening communities, and creating opportunities for lasting change. Through your generosity, we can continue this important work and expand our impact. Thank you for being a part of our mission.",
+      "about_text_padding": "0",
+      "about_text_font_size": "17px",
+      "about_text_font_size_small_screen": "16px",
+      "about_text_font_weight": "normal",
+      "about_text_color": "#334155",
+      "about_text_text_align": "center",
+      "about_text_font_style": "normal",
+      "about_text_font_family": "Arial, Helvetica, sans-serif",
+      "about_text_text_decoration": "none"
+    }
+  },
+  "progress_bar": {
+    "progress_bar_status": "none",
+    "progress_bar_grid_area": "grid_area_5"
+  },
+  "donation_targets": {
+    "donation_targets_status": "none",
+    "donation_targets_grid_area": "grid_area_6"
+  },
+  "payment_form": {
+    "payment_form_grid_area": "grid_area_7",
+    "payment_form_block": {
+      "payment_form_block_background_color": "#FFFFFF",
+      "payment_form_block_padding": "16px",
+      "payment_form_block_margin": "12px",
+      "payment_form_block_border_radius": "16px",
+      "payment_form_block_border_top": "1px solid #E2E8F0",
+      "payment_form_block_border_right": "1px solid #E2E8F0",
+      "payment_form_block_border_bottom": "1px solid #E2E8F0",
+      "payment_form_block_border_left": "1px solid #E2E8F0"
+    },
+    "payment_form_amount_other": {
+      "payment_form_amount_other_inline_status": "No",
+      "payment_form_amount_other_default_value": "50",
+      "payment_form_amount_other_width": "100%",
+      "payment_form_amount_other_height": "48px",
+      "payment_form_amount_other_margin": "8px 0"
+    },
+    "payment_form_donation_amount_button": {
+      "payment_form_donation_amount_button_background_color": "#F8FAFC",
+      "payment_form_donation_amount_button_padding": "10px",
+      "payment_form_donation_amount_button_margin": "",
+      "payment_form_donation_amount_button_border_radius": "10px",
+      "payment_form_donation_amount_button_border_top": "1px solid #CBD5E1",
+      "payment_form_donation_amount_button_border_right": "1px solid #CBD5E1",
+      "payment_form_donation_amount_button_border_bottom": "1px solid #CBD5E1",
+      "payment_form_donation_amount_button_border_left": "1px solid #CBD5E1",
+      "payment_form_donation_amount_button_width": "28%",
+      "payment_form_donation_amount_button_height": "48px",
+      "payment_form_donation_amount_button_box_shadow_display": "no",
+      "payment_form_donation_amount_button_text": {
+        "payment_form_donation_amount_button_text_font_size": "16px",
+        "payment_form_donation_amount_button_text_font_size_small_screen": "16px",
+        "payment_form_donation_amount_button_text_font_weight": "bold",
+        "payment_form_donation_amount_button_text_color": "#134E4A",
+        "payment_form_donation_amount_button_text_text_align": "center",
+        "payment_form_donation_amount_button_text_font_style": "normal",
+        "payment_form_donation_amount_button_text_font_family": "Arial, Helvetica, sans-serif",
+        "payment_form_donation_amount_button_text_text_decoration": "none"
+      },
+      "payment_form_donation_amount_button_hover": {
+        "payment_form_donation_amount_button_hover_background_color": "#115E59",
+        "payment_form_donation_amount_button_hover_text_color": "#FFFFFF",
+        "payment_form_donation_amount_button_hover_border_color": "#0F766E"
+      },
+      "payment_form_donation_amount_button_select": {
+        "payment_form_donation_amount_button_select_background_color": "#134E4A",
+        "payment_form_donation_amount_button_select_text_color": "#FFFFFF",
+        "payment_form_donation_amount_button_select_border_color": "#134E4A"
+      },
+      "payment_form_donation_amount_button_count": "5",
+      "payment_form_donation_amount_button_recurring_button_status": "no",
+      "payment_form_donation_amount_button_items": {
+        "amount_1": "$25",
+        "amount_2": "$50",
+        "amount_3": "$100",
+        "amount_4": "$250",
+        "amount_5": "$500"
+      },
+      "payment_form_donation_amount_button_recurring_button_items": {
+        "amount_1": "$25",
+        "amount_2": "$50",
+        "amount_3": "$100",
+        "amount_4": "$250",
+        "amount_5": "$500"
+      }
+    },
+    "payment_form_payment_type_button": {
+      "payment_form_payment_type_button_background_color": "#F8FAFC",
+      "payment_form_payment_type_button_padding": "10px",
+      "payment_form_payment_type_button_margin": "",
+      "payment_form_payment_type_button_border_radius": "10px",
+      "payment_form_payment_type_button_border_top": "1px solid #CBD5E1",
+      "payment_form_payment_type_button_border_right": "1px solid #CBD5E1",
+      "payment_form_payment_type_button_border_bottom": "1px solid #CBD5E1",
+      "payment_form_payment_type_button_border_left": "1px solid #CBD5E1",
+      "payment_form_payment_type_button_width": "",
+      "payment_form_payment_type_button_height": "48px",
+      "payment_form_payment_type_button_box_shadow_display": "no",
+      "payment_form_payment_type_button_text": {
+        "payment_form_payment_type_button_text_font_size": "16px",
+        "payment_form_payment_type_button_text_font_size_small_screen": "16px",
+        "payment_form_payment_type_button_text_font_weight": "bold",
+        "payment_form_payment_type_button_text_color": "#134E4A",
+        "payment_form_payment_type_button_text_text_align": "center",
+        "payment_form_payment_type_button_text_font_style": "normal",
+        "payment_form_payment_type_button_text_font_family": "Arial, Helvetica, sans-serif",
+        "payment_form_payment_type_button_text_text_decoration": "none"
+      },
+      "payment_form_payment_type_button_hover": {
+        "payment_form_payment_type_button_hover_background_color": "#115E59",
+        "payment_form_payment_type_button_hover_text_color": "#FFFFFF",
+        "payment_form_payment_type_button_hover_border_color": "#0F766E"
+      },
+      "payment_form_payment_type_button_select": {
+        "payment_form_payment_type_button_select_background_color": "#134E4A",
+        "payment_form_payment_type_button_select_text_color": "#FFFFFF",
+        "payment_form_payment_type_button_select_border_color": "#134E4A"
+      }
+    },
+    "payment_form_donate_button": {
+      "payment_form_donate_button_background_color": "#0F766E",
+      "payment_form_donate_button_padding": "10px",
+      "payment_form_donate_button_margin": "",
+      "payment_form_donate_button_border_radius": "10px",
+      "payment_form_donate_button_border_top": "1px solid #CBD5E1",
+      "payment_form_donate_button_border_right": "1px solid #CBD5E1",
+      "payment_form_donate_button_border_bottom": "1px solid #CBD5E1",
+      "payment_form_donate_button_border_left": "1px solid #CBD5E1",
+      "payment_form_donate_button_width": "100%",
+      "payment_form_donate_button_height": "48px",
+      "payment_form_donate_button_box_shadow_display": "no",
+      "payment_form_donate_button_text": {
+        "payment_form_donate_button_text_font_size": "16px",
+        "payment_form_donate_button_text_font_size_small_screen": "16px",
+        "payment_form_donate_button_text_font_weight": "bold",
+        "payment_form_donate_button_text_color": "#FFFFFF",
+        "payment_form_donate_button_text_text_align": "center",
+        "payment_form_donate_button_text_font_style": "normal",
+        "payment_form_donate_button_text_font_family": "Arial, Helvetica, sans-serif",
+        "payment_form_donate_button_text_text_decoration": "none"
+      },
+      "payment_form_donate_button_hover": {
+        "payment_form_donate_button_hover_background_color": "#115E59",
+        "payment_form_donate_button_hover_text_color": "#FFFFFF",
+        "payment_form_donate_button_hover_border_color": "#0F766E"
+      },
+      "payment_form_donate_button_select": {
+        "payment_form_donate_button_select_background_color": "#134E4A",
+        "payment_form_donate_button_select_text_color": "#FFFFFF",
+        "payment_form_donate_button_select_border_color": "#134E4A"
+      }
+    },
+    "payment_form_input": {
+      "payment_form_input_background_color": "#FFFFFF",
+      "payment_form_input_padding": "12px",
+      "payment_form_input_margin": "",
+      "payment_form_input_border_radius": "8px",
+      "payment_form_input_border_top": "1px solid #CBD5E1",
+      "payment_form_input_border_right": "1px solid #CBD5E1",
+      "payment_form_input_border_bottom": "1px solid #CBD5E1",
+      "payment_form_input_border_left": "1px solid #CBD5E1",
+      "payment_form_input_font_size": "16px",
+      "payment_form_input_font_size_small_screen": "16px",
+      "payment_form_input_font_weight": "normal",
+      "payment_form_input_color": "#334155",
+      "payment_form_input_text_align": "left",
+      "payment_form_input_font_style": "normal",
+      "payment_form_input_font_family": "Arial, Helvetica, sans-serif",
+      "payment_form_input_text_decoration": "none",
+      "payment_form_input_on_focus_border_color": "#0F766E"
+    },
+    "payment_form_heading": {
+      "payment_form_heading_background_color": "transparent",
+      "payment_form_heading_padding": "8px 0",
+      "payment_form_heading_margin": "",
+      "payment_form_heading_border_radius": "0px",
+      "payment_form_heading_border_top": "",
+      "payment_form_heading_border_right": "",
+      "payment_form_heading_border_bottom": "",
+      "payment_form_heading_border_left": "",
+      "payment_form_heading_font_size": "20px",
+      "payment_form_heading_font_size_small_screen": "16px",
+      "payment_form_heading_font_weight": "bold",
+      "payment_form_heading_color": "#0F172A",
+      "payment_form_heading_text_align": "left",
+      "payment_form_heading_font_style": "normal",
+      "payment_form_heading_font_family": "Arial, Helvetica, sans-serif",
+      "payment_form_heading_text_decoration": "none"
+    },
+    "payment_form_email_notifications": {
+      "payment_form_email_notifications_status": "",
+      "payment_form_email_notifications_forwarding_address": "",
+      "payment_form_email_notifications_text": "Receive Email Updates"
+    },
+    "payment_form_error": {
+      "payment_form_error_border_color": "#B91C1C"
+    },
+    "payment_form_notes": {
+      "payment_form_notes_font_size": "15px",
+      "payment_form_notes_text_color": "#334155",
+      "payment_form_notes_font_family": "Arial, Helvetica, sans-serif"
+    }
+  },
+  "owtg": {
+    "owtg_icons": {
+      "owtg_icon_status": "none"
+    },
+    "owtg_heading_block": {
+      "owtg_heading_block_background_color": "#F8FAFC",
+      "owtg_heading_block_padding": "12px",
+      "owtg_heading_block_margin": "",
+      "owtg_heading_block_border_radius": "0px",
+      "owtg_heading_block_border_top": "",
+      "owtg_heading_block_border_right": "",
+      "owtg_heading_block_border_bottom": "",
+      "owtg_heading_block_border_left": ""
+    },
+    "owtg_heading_text": {
+      "owtg_heading_text_font_size": "16px",
+      "owtg_heading_text_font_size_small_screen": "16px",
+      "owtg_heading_text_font_weight": "bold",
+      "owtg_heading_text_color": "#134E4A",
+      "owtg_heading_text_text_align": "center",
+      "owtg_heading_text_font_style": "normal",
+      "owtg_heading_text_font_family": "Arial, Helvetica, sans-serif",
+      "owtg_heading_text_text_decoration": "none"
+    },
+    "owtg_content_block": {
+      "owtg_content_block_background_color": "#FFFFFF",
+      "owtg_content_block_padding": "12px",
+      "owtg_content_block_margin": "",
+      "owtg_content_block_border_radius": "0px",
+      "owtg_content_block_border_top": "",
+      "owtg_content_block_border_right": "",
+      "owtg_content_block_border_bottom": "",
+      "owtg_content_block_border_left": ""
+    },
+    "owtg_content_text": {
+      "owtg_content_text_font_size": "16px",
+      "owtg_content_text_font_size_small_screen": "16px",
+      "owtg_content_text_font_weight": "normal",
+      "owtg_content_text_color": "#334155",
+      "owtg_content_text_text_align": "left",
+      "owtg_content_text_font_style": "normal",
+      "owtg_content_text_font_family": "Arial, Helvetica, sans-serif",
+      "owtg_content_text_text_decoration": "none"
+    }
+  },
+  "footer": {
+    "footer_block": {
+      "footer_block_background_color": "#F8FAFC",
+      "footer_block_padding": "16px",
+      "footer_block_margin": "",
+      "footer_block_border_radius": "0px",
+      "footer_block_border_top": "",
+      "footer_block_border_right": "",
+      "footer_block_border_bottom": "",
+      "footer_block_border_left": ""
+    },
+    "footer_heading": {
+      "footer_heading_font_size": "18px",
+      "footer_heading_font_size_small_screen": "16px",
+      "footer_heading_font_weight": "bold",
+      "footer_heading_color": "#134E4A",
+      "footer_heading_text_align": "center",
+      "footer_heading_font_style": "normal",
+      "footer_heading_font_family": "Arial, Helvetica, sans-serif",
+      "footer_heading_text_decoration": "none"
+    },
+    "footer_content": {
+      "footer_content_font_size": "14px",
+      "footer_content_font_size_small_screen": "16px",
+      "footer_content_font_weight": "normal",
+      "footer_content_color": "#334155",
+      "footer_content_text_align": "center",
+      "footer_content_font_style": "normal",
+      "footer_content_font_family": "Arial, Helvetica, sans-serif",
+      "footer_content_text_decoration": "none"
+    }
+  }
+}
